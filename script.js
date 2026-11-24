@@ -17,7 +17,7 @@ document.querySelectorAll(
 });
 
 
-// CONTACT FORM
+// contact f
 
 const contactForm = document.getElementById("contactForm");
 
